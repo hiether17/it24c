@@ -16,5 +16,11 @@
         "Description": "This contains the logs with the date and total number of logs.",
         "file": "Applet-3.html",
         "Image": "https://sematext.com/wp-content/uploads/2023/07/Event-Log.png"
+    },
+    {
+        "Applet_No": "Applet 4 - Dynamic Elements",
+        "Description": "This contains for searching",
+        "file": "Applet-4/Applet-4.html",
+        "Image": "https://img.pikbest.com/wp/202405/dotted-line-dynamics-dynamic-form-of-dots-and-lines-abstract-technology-background-with-science-big-data-elements_9827348.jpg!w700wp"
     }
 ]
