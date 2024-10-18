@@ -18,12 +18,6 @@
         "student_enrolled_date": "2023-08-05"
     },
     {
-        "student_id": 20231268,
-        "student_name": "Maristhel Pondulan",
-        "student_program": "BS - Business Adminitration Major in Marketing Management",
-        "student_enrolled_date": "2023-08-05"
-    },
-    {
         "student_id": 20231053,
         "student_name": "Katelyn Coming",
         "student_program": "BS-Information technology",
@@ -45,6 +39,12 @@
         "student_id": 20231287,
         "student_name": "Bernales, Rainiel Jevson, J.",
         "student_program": "BS-Information technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231268,
+        "student_name": "Maristhel Pondulan",
+        "student_program": "BS - Business Adminitration Major in Marketing Management",
         "student_enrolled_date": "2023-08-05"
     }
 ]
