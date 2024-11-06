@@ -9,13 +9,13 @@
         "Applet_No": "Applet 2 - leaflet map",
         "Description": "This application contains the basic web map.",
         "file": "Applet-2.html",
-        "Image": "https://devnet.logianalytics.com/hc/article_attachments/7522792869527/introlmaps_01.png"
+        "Image": "https://shots.codepen.io/mejdej93/pen/YzwdwNQ-800.jpg?version=1595332457"
     },
     {
         "Applet_No": "Applet 3 - Event Logger",
         "Description": "This contains the logs with the date and total number of logs.",
         "file": "Applet-3.html",
-        "Image": "https://sematext.com/wp-content/uploads/2023/07/Event-Log.png"
+        "Image": "https://ackcent.com/wp-content/uploads/2019/04/linux-logging.jpg"
     },
     {
         "Applet_No": "Applet 4 - Dynamic Elements",
